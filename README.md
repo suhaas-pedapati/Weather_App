@@ -43,5 +43,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to fork or contribute to this project. If you have any suggestions or find any issues, please open an [issue](https://github.com/your_username/weather-app/issues).
 
 ---
-
-Feel free to replace "your_username" with your actual GitHub username. This README provides clear instructions on how to use the application, where to obtain the API key, and encourages contributions.
